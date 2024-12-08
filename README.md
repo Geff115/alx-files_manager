@@ -1,14 +1,14 @@
 # Files Manager
 
-Back-end
-JavaScript
-ES6
-NoSQL
-MongoDB
-Redis
-NodeJS
-ExpressJS
-Kue
+Back-end,
+JavaScript,
+ES6,
+NoSQL,
+MongoDB,
+Redis,
+NodeJS,
+ExpressJS,
+Kue.
 
 ### This project is a summary of my back-end trimester: authentication, NodeJS, ExpressJS, MongoDB, Redis, pagination and background processing.
 
